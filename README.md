@@ -19,8 +19,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/PunjabiSarthak#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/PunjabiSarthak#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://linkedin.com/in/sarthak-punjabi#gh-light-mode-only)
-[![website](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://linkedin.com/in/sarthak-punjabi#gh-dark-mode-only)
+[![website](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png)](https://linkedin.com/in/sarthak-punjabi#gh-light-mode-only)
+[![website](https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png)](https://linkedin.com/in/sarthak-punjabi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sarthak1139/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sarthak1139/#gh-dark-mode-only)
