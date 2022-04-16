@@ -19,8 +19,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/PunjabiSarthak#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/PunjabiSarthak#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sarthak-punjabi#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sarthak-punjabi#gh-dark-mode-only)
+[![website](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://linkedin.com/in/sarthak-punjabi#gh-light-mode-only)
+[![website](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://linkedin.com/in/sarthak-punjabi#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/sarthak1139/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sarthak1139/#gh-dark-mode-only)
@@ -36,7 +36,6 @@
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
