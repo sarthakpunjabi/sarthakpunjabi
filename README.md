@@ -43,9 +43,16 @@
 <br />
 <br />
 
-
+### Github Stats
 
 [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakpunjabi)](https://github.com/sarthakpunjabi/github-readme-stats)
+
+
+<br />
+<br />
+### Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpunjabi&layout=compact)](https://github.com/sarthakpunjabi/github-readme-stats)
 
 
 ---
