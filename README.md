@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarthak - aka[AIStackr] 👋
 
-## I'm a Developer , Guitarist , basketeer and a Student 
+## I'm a Developer , Guitarist , Basketeer and a Student 
 
 <hr>
 
