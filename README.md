@@ -43,4 +43,9 @@
 <br />
 <br />
 
+
+
+[![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakpunjabi)](https://github.com/sarthakpunjabi/github-readme-stats)
+
+
 ---
