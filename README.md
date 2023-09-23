@@ -1,4 +1,4 @@
-### Hi there, I'm Sarthak - aka[AIStackr] 👋
+### Hi there, I'm Sarthak 👋
 
 ## I'm a Developer , Guitarist , Basketeer and a Student 
 
